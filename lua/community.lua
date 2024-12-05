@@ -16,5 +16,11 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.editing-support.copilotchat-nvim" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.sql" },
+  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.astro" },
+  { import = "astrocommunity.utility.live-server-nvim" },
   -- import/override with your plugins folder
 }
